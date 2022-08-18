@@ -25,7 +25,7 @@ global.gopay = '6282118868431'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+global.gc = 'https://chat.whatsapp.com/Lcb6ZIjBDiSHnhkDU19ghW'
 global.web = 'https://youtube.com/channel/UCOXMmo34qqRx1Q64nY3BK5w' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.comJfhmhxxyz_'
 global.pulsa = '6282118868431'
