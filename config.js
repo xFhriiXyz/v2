@@ -12,9 +12,9 @@ global.prems = ['6282118868431']
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ ChissPear offcঔৣ꧂'
 global.numberowner = '6282118868431','6282118868431',
-global.instagram = 'https://instagram.com/Jarotr_'
+global.instagram = 'https://instagram.com/fhmhxxyz_'
 global.github = 'https://github.com/Alpiii22'
-global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+global.Youtube = 'https://youtube.com/channel/UCOXMmo34qqRx1Q64nY3BK5w'
 global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.ss = 'https://youtu.be/3m7tRD4RklM'
 global.sss = 'https://youtu.be/PzUH1ApMCig'
@@ -26,8 +26,8 @@ global.gopay = '6282118868431'
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/Jarotr_'
+global.web = 'https://youtube.com/channel/UCOXMmo34qqRx1Q64nY3BK5w' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.comJfhmhxxyz_'
 global.pulsa = '6282118868431'
 global.nomer = 'https://wa.me/6282118868431' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
